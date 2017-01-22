@@ -1,2 +1,2 @@
 # notebooks
-Jupyter Notebook for sharing via nb_viewer
+Jupyter Notebook for sharing.
