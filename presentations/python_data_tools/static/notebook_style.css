@@ -1,0 +1,22 @@
+﻿
+.dataframe table{
+	border-color: white !important;
+}
+
+.dataframe th{
+	background: navy;
+	color: white;
+	border-color: white;
+}
+
+.dataframe td{
+	border-color: white;
+}
+
+tr:nth-child(even) {
+    background-color: #EEEEEE;
+}
+
+tr:nth-child(odd) {
+    background-color: #EEEEFF;
+}
